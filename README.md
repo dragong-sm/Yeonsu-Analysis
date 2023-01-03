@@ -1,3 +1,7 @@
+  [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/dragong-sm/Yeonsu-Analysis)
+  [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://github.com/dragong-sm/Yeonsu-Analysis)
+  [![GoogleColab](https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white)](https://github.com/dragong-sm/Yeonsu-Analysis)
+  
 # Yeonsu-Analysis
 (연수구) 원도심 활성화를 위한 쇠퇴현황 시각화 분석 아이디어 공모전 
 
